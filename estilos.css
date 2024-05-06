@@ -1,0 +1,21 @@
+@font-face 
+{font-family: 'shardee';
+src: url('fonts/shardee.ttf');}
+
+h1{font-family: 'shardee'; text-align: center; font-size: 100px; color: #ff758f;}
+
+#moon{width: 300px; height: 300px; margin: 20px; background-color: #ffb3c6; background-image: url(moon.png);
+        background-position: 50% 50%; background-repeat: no-repeat; background-size: 460px; padding: 50px;
+        border: 5px solid #fb6f92; display: block; float: left;}
+        
+#mercury{width: 300px; height: 300px; margin: 20px; background-color: #a4cefc; background-image: 
+        url(mercury.png);background-position: 100% 0%; background-repeat: no-repeat; background-size: 400px; 
+        padding: 50px; border: 5px solid #0f3375; float: left;}
+
+#saturn{width: 300px; height: 300px; margin: 20px; background-color: #c8b1e4; background-image: 
+        url(saturn.webp);background-position: 100% 0%; background-repeat: no-repeat; background-size: 400px; 
+        padding: 50px; border: 5px solid #2f184b; float: left;}
+
+#mask{width: 300px; height: 300px; margin: 20px; background-color: #fa4c58; background-image: 
+        url(mask.webp);background-position: 100% 0%; background-repeat: no-repeat; background-size: 400px; 
+        padding: 50px; border: 5px solid #500207; float: left;}
